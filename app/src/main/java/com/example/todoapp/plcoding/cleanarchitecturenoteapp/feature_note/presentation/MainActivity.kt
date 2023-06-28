@@ -1,4 +1,4 @@
-package com.example.todoapp.plcoding.cleanarchitecturenoteapp
+package com.example.todoapp.plcoding.cleanarchitecturenoteapp.feature_note.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

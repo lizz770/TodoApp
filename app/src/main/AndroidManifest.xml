@@ -12,7 +12,7 @@
         android:theme="@style/Theme.TODOAPP"
         tools:targetApi="31">
         <activity
-            android:name=".plcoding.cleanarchitecturenoteapp.MainActivity"
+            android:name=".plcoding.cleanarchitecturenoteapp.feature_note.presentation.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
