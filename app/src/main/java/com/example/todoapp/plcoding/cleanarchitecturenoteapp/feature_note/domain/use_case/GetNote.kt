@@ -1,3 +1,5 @@
+package com.example.todoapp.plcoding.cleanarchitecturenoteapp.feature_note.domain.use_case
+
 import com.example.todoapp.plcoding.cleanarchitecturenoteapp.feature_note.domain.model.Note
 import com.example.todoapp.plcoding.cleanarchitecturenoteapp.feature_note.domain.repository.NoteRepository
 

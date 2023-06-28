@@ -1,6 +1,6 @@
 package com.example.todoapp.plcoding.cleanarchitecturenoteapp.di
 
-import GetNote
+import com.example.todoapp.plcoding.cleanarchitecturenoteapp.feature_note.domain.use_case.GetNote
 import android.app.Application
 import androidx.room.Room
 import com.example.todoapp.plcoding.cleanarchitecturenoteapp.feature_note.data.NoteRepositoryImpl
