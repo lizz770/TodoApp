@@ -1,4 +1,4 @@
-package com.example.todoapp.plcoding.cleanarchitecturenoteapp.ui
+package com.example.todoapp.plcoding.cleanarchitecturenoteapp
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
